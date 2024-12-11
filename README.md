@@ -1,5 +1,4 @@
 # Synchrony-Research-Presentation
----
 This repository contains all the materials and analysis related to my research and presentation for the Emerging Technology Internship Interview. The focus of this project is building a predictive model for loan approval classification using machine learning techniques, specifically logistic regression.
 ---
 ### Project Overview
